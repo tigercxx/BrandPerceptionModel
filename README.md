@@ -2,8 +2,8 @@
 
 Use in conjunction with [Backend](https://github.com/tigercxx/BrandPerceptionBackend) and [Frontend](https://github.com/tigercxx/BrandPerception/tree/gh-pages)
 
-
 Reference paper and code
+```
 @inproceedings{li-etal-2019-exploiting,
     title = "Exploiting {BERT} for End-to-End Aspect-based Sentiment Analysis",
     author = "Li, Xin  and
@@ -15,3 +15,4 @@ Reference paper and code
     url = "https://www.aclweb.org/anthology/D19-5505",
     pages = "34--41"
 }
+```
