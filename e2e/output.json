@@ -1,0 +1,1 @@
+{"count": 1, "negative": 1, "positive": 1, "neutral": 0, "data": [{"input": "The food was amazing but the service was bad.", "output": {"food": "POS", "service": "NEG"}}]}
